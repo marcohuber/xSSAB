@@ -14,7 +14,8 @@ NOTE: The original codes are implemented on a private codebase and will not be r
 
 ### Getting started:
 1. Load pre-trained models in folder *./models*
-2. Install environment
+2. Add backbone files into *./backbones*
+3. Install environment
 ```commandline
 pip install -r requirements.txt
 ```
