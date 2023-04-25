@@ -20,6 +20,10 @@ NOTE: The original codes are implemented on a private codebase and will not be r
 pip install -r requirements.txt
 ```
 
+## PatchLFW
+
+If you are legally allowed to process the original LFW dataset, which can be downloaded [here](http://vis-www.cs.umass.edu/lfw/), you can request the created PatchLFW [here](https://drive.google.com/drive/folders/1o4xCHJJtK3YZDaXo8Ln4l4BZ_Y7hp_fM). If you download PatchLFW, you can skip the Patch creation in Patches (1).
+
 ## HOW TO RUN
 Follow steps in order: *Methodology* -> *Patches* -> *Evaluation*
 
@@ -80,3 +84,4 @@ FMR and FNMR of patched images will be printed out to the console.
 
 ## Citation
 
+TBA
