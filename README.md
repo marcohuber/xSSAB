@@ -6,7 +6,7 @@ Official repository of the paper:
 *Marco Huber, Anh Thi Luu, Philipp Terhörst, Naser Damer*  
 Fraunhofer IGD, TU Darmstadt
 
-Pre-print on arxiv: TODO
+Pre-print on arxiv: https://arxiv.org/abs/2304.13409
 
 ![](xSSAB_Overview.png)
 
